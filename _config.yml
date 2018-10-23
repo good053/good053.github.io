@@ -1,26 +1,26 @@
-title: 王小俊
-subtitle: 个人站
-description: 欢迎来到我的个人站~
+﻿title: Mrs Good
+subtitle: 个人学习博客
+description: 欢迎来到我的博客~
 # 头像里面的标题
-avatarTitle: Grimxiaojun
+avatarTitle: Mrs Good
 # 头像里面的描述
-avatarDesc: 将成为优秀程序员的我
-url: "http://grimxiaojun.github.io"
+avatarDesc: 记录我的学习生活
+url: "http://good053.github.io"
 
 comment:
     # disqus: leopard
-    duoshuo: grimxiaojun
+    duoshuo: Mrs Good
 
 # Social
 social:
     weibo: ----
-    github: grimxiaojun
+    github: good053
     # twitter: 
-    mail: swdwangjie@outlook.com
+    mail:394178293@qq.com
 
 ga:
-    id: UA-96239281-2
-    host: auto
+    id: 
+    host:
 
 
 # 《----------------- 上面的信息修改成你自己的 ---------------------------》
